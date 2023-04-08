@@ -14,10 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Bephoria
-email:
+email: yvan.galtie@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Site support pour les campagnes Donjons et Dragons dans l'univers de Bephoria.
-twitter_username: username
 github_username: C21Silarion
 minimal_mistakes_skin: dark
 search: true
@@ -58,7 +57,7 @@ plugins:
 author:
   name   : "Bephoria"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Bephooria, un monde libre et sauvage, plein de magie et d'espoir"
+  bio    : "Bephoria, un monde libre et sauvage, plein de magie et d'espoir"
   links:
 
 
